@@ -1,0 +1,6 @@
+/**
+ * InterpretedException
+ */
+public class InterpretedException {
+
+}
